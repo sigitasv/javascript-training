@@ -1,2 +1,2 @@
 # javascript-training
-Exercises for javascript training
+JavaScript programavimo pratimai
